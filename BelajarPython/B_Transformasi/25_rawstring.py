@@ -1,1 +1,0 @@
-print(r'Dede Alamsyah\nGarut-Jabar')

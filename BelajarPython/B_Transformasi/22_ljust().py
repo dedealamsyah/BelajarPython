@@ -1,1 +1,0 @@
-print('Dede Alamsyah'.ljust(20))
