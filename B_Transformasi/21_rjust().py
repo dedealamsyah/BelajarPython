@@ -1,0 +1,1 @@
+print('Dede Alamsyah'.rjust(20))
