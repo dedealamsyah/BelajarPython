@@ -1,0 +1,1 @@
+print("Assalamu\'alaikum\n Hari ini adalah \n hari Jum\'at")
